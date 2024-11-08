@@ -107,4 +107,12 @@ void testListado(){
 
 	}
 
+	@Test
+	void terminal(){
+
+			System.out.println("terminal");
+
+
+	}
+
 }
